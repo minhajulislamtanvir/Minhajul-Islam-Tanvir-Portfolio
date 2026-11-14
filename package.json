@@ -1,7 +1,7 @@
 {
-  "name": "minhajul-portfolio-advanced",
+  "name": "minhajul-portfolio-professional",
   "version": "1.0.0",
-  "description": "Md Minhajul Islam Tanvir - Animated Glass Portfolio",
+  "description": "Md Minhajul Islam Tanvir - Professional Portfolio",
   "main": "server.js",
   "scripts": { "start": "node server.js" },
   "dependencies": { "express": "^4.19.2" },
